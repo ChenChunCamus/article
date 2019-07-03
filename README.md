@@ -124,7 +124,7 @@
 <a href="https://github.com/ChenChunCamus/article/blob/master/2018/清除启蒙毒——刘小枫的反平等主义.md
 " title = "1809">清除启蒙毒——刘小枫的反平等主义</a> 
 
-<a href="https://github.com/ChenChunCamus/article/blob/master/2018/我和我的读者们
+<a href="https://github.com/ChenChunCamus/article/blob/master/2018/我和我的读者们.md
 " title = "1810">我和我的读者们</a> 
 
 <a href="https://github.com/ChenChunCamus/article/blob/master/2018/五月风暴的中国继承人.md
