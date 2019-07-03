@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# 陈纯文集
+[陈纯文集
 
 
 <!--
@@ -20,7 +20,7 @@
   -->
 
 <!-- [About](pages/about.md) -->
-# 2015
+[2015]()
 
   * [大猫，以及一个时代的结束](pages/2015/大猫，以及一个时代的结束.md)
 
@@ -37,7 +37,7 @@
   * [若干年后，如果我遇到另一个你](pages/2015/若干年后，如果我遇到另一个你.md)
 
 
-# 2016
+[2016]()
 
   * [爱情没有你们想象得那么美好](pages/2016/爱情没有你们想象得那么美好.md)
 
@@ -63,7 +63,7 @@
 
   * [作为政治哲学一部分的爱情哲学](pages/2016/作为政治哲学一部分的爱情哲学.md)
 
-# 2017
+[2017]()
 
   * [爱情兼容论](https://github.com/ChenChunCamus/article/tree/master/2017)
 
@@ -87,7 +87,7 @@
 
   * [纵无永恒之爱，亦能活出意义](pages/2017/纵无永恒之爱，亦能活出意义.md)
 
-# 2018
+[2018]()
 
   * [大陆自由派在台湾（一）：口炮党领袖](pages/2018/大陆自由派在台湾（一）：口炮党领袖.md)
 
@@ -119,7 +119,7 @@
 
   * [这个时代的左翼青年](pages/2018/这个时代的左翼青年.md)
 
-# 2019
+[2019]()
 
   * [作为一个"深二代"是什么样的体验（一）](pages/2019/作为一个"深二代"是什么样的体验（一）.md)
 
@@ -148,14 +148,14 @@
 
 [Menu Item 1]()
 
-    * # SubMenu Heading 1
+    * [SubMenu Heading 1
     * [SubMenu Item 1](pages/subitem1.md)
     * [SubMenu Item 2](pages/subitem2.md)
   - - - -
-    * # SubMenu Heading 2
+    * [SubMenu Heading 2
     * [SubMenu Item 3](pages/subitem3.md)
   - - - -
-    * # SubMenu Heading 3
+    * [SubMenu Heading 3
     * [SubMenu Item 3](pages/subitem3.md)
 
 [Menu Item 2](pages/item2.md)
