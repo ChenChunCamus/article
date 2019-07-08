@@ -184,3 +184,8 @@
 <a href="https://github.com/ChenChunCamus/article/blob/master/2019/从任正非的访谈看中国精英阶层的价值共识.md
 " title = "1912">从任正非的访谈看中国精英阶层的价值共识</a> 
 
+
+<a href="https://github.com/ChenChunCamus/article/blob/master/2019/八年的北京.md
+" title = "1912">八年的北京</a> 
+
+
