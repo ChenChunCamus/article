@@ -142,6 +142,9 @@
 <a href="https://github.com/ChenChunCamus/article/blob/master/2018/这个时代的左翼青年.md
 " title = "1815">这个时代的左翼青年</a> 
 
+<a href="https://github.com/ChenChunCamus/article/blob/master/2018/修和，以及日常生活的意义.md
+" title = "1816">修和，以及日常生活的意义</a> 
+
 
 <h3>2019</h3>
 
