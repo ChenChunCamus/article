@@ -214,13 +214,84 @@
 " title = "1409">自由主义的“进”与“退”</a> 
 
 <a href="https://github.com/ChenChunCamus/article/blob/master/2014/那些在夜晚走过的路.md
-" title = "1410">那些在夜晚走过的路”</a> 
+" title = "1410">那些在夜晚走过的路</a> 
 
 <h3>2014前</h3>
 
+<a href="https://github.com/ChenChunCamus/article/blob/master/2014前/败阵.md
+" title = "0001">败阵</a> 
 
+<a href="https://github.com/ChenChunCamus/article/blob/master/2014前/2012，一些理想主义的故事.md
+" title = "0002">2012，一些理想主义的故事</a> 
 
+<a href="https://github.com/ChenChunCamus/article/blob/master/2014前/承诺无能者.md
+" title = "0003">承诺无能者</a> 
 
+<a href="https://github.com/ChenChunCamus/article/blob/master/2014前/纯真年代.md
+" title = "0004">纯真年代</a> 
+
+<a href="https://github.com/ChenChunCamus/article/blob/master/2014前/錯位的女權之爭.md
+" title = "0005">錯位的女權之爭</a> 
+
+<a href="https://github.com/ChenChunCamus/article/blob/master/2014前/关于交流.md
+" title = "0006">关于交流</a> 
+
+<a href="https://github.com/ChenChunCamus/article/blob/master/2014前/荒唐镜.md
+" title = "0007">荒唐镜</a> 
+
+<a href="https://github.com/ChenChunCamus/article/blob/master/2014前/论共同生活.md
+" title = "0008">论共同生活</a> 
+
+<a href="https://github.com/ChenChunCamus/article/blob/master/2014前/每个人的生活.md
+" title = "0009">每个人的生活</a> 
+
+<a href="https://github.com/ChenChunCamus/article/blob/master/2014前/梦旅人.md
+" title = "0010">梦旅人</a> 
+
+<a href="https://github.com/ChenChunCamus/article/blob/master/2014前/末日之前，你要结婚.md
+" title = "0011">末日之前，你要结婚</a> 
+
+<a href="https://github.com/ChenChunCamus/article/blob/master/2014前/牟子之《政道与治道》.md
+" title = "0012">牟子之《政道与治道》</a> 
+
+<a href="https://github.com/ChenChunCamus/article/blob/master/2014前/那些被我们辜负的人.md
+" title = "0013">那些被我们辜负的人</a> 
+
+<a href="https://github.com/ChenChunCamus/article/blob/master/2014前/耐住寂寞.md
+" title = "0014">耐住寂寞</a> 
+
+<a href="https://github.com/ChenChunCamus/article/blob/master/2014前/平安夜.md
+" title = "0015">平安夜</a> 
+
+<a href="https://github.com/ChenChunCamus/article/blob/master/2014前/秋天，记忆与自杀.md
+" title = "0016">秋天，记忆与自杀</a>
+
+<a href="https://github.com/ChenChunCamus/article/blob/master/2014前/圣人与哲人.md
+" title = "0017">圣人与哲人</a>
+
+<a href="https://github.com/ChenChunCamus/article/blob/master/2014前/施派的逼格.md
+" title = "0018">施派的逼格</a>
+
+<a href="https://github.com/ChenChunCamus/article/blob/master/2014前/四城记 北京.md
+" title = "0019">四城记 北京</a>
+
+<a href="https://github.com/ChenChunCamus/article/blob/master/2014前/四城记 潮州.md
+" title = "0020">四城记 潮州</a>
+
+<a href="https://github.com/ChenChunCamus/article/blob/master/2014前/四城记 广州.md
+" title = "0021">四城记 广州</a>
+
+<a href="https://github.com/ChenChunCamus/article/blob/master/2014前/四城记 深圳.md
+" title = "0022">四城记 深圳</a>
+
+<a href="https://github.com/ChenChunCamus/article/blob/master/2014前/坦诚的悖论.md
+" title = "0023">坦诚的悖论</a>
+
+<a href="https://github.com/ChenChunCamus/article/blob/master/2014前/哲学与理想主义.md
+" title = "0024">哲学与理想主义</a>
+
+<a href="https://github.com/ChenChunCamus/article/blob/master/2014前/What really divides us.md
+" title = "0025">What really divides us</a>
 
 
 
