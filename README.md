@@ -42,6 +42,13 @@
 <a href="https://github.com/ChenChunCamus/article/blob/master/2019/八年的北京.md
 " title = "1912">八年的北京</a> 
 
+<a href="https://github.com/ChenChunCamus/article/blob/master/2019/老朱——中产阶级的去政治化与再政治化.md
+" title = "1913">老朱——中产阶级的去政治化与再政治化</a> 
+
+<a href="https://github.com/ChenChunCamus/article/blob/master/2019/我们心中的哪吒.md
+" title = "1914">我们心中的哪吒</a> 
+
+
 <h3>2018</h3>
 
 <a href="https://github.com/ChenChunCamus/article/blob/master/2018/大陆自由派在台湾（一）：口炮党领袖.md
