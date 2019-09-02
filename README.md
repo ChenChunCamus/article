@@ -48,6 +48,8 @@
 <a href="https://github.com/ChenChunCamus/article/blob/master/2019/我们心中的哪吒.md
 " title = "1914">我们心中的哪吒</a> 
 
+<a href="https://github.com/ChenChunCamus/article/blob/master/2019/粉红狂潮与体制外的极权主义.md
+" title = "1915">粉红狂潮与体制外的极权主义</a> 
 
 <h3>2018</h3>
 
