@@ -102,13 +102,13 @@
 
 <h6> [1] Shu，《维护男士“调情权”，法国女士谴责“＃MeToo”太过分》， https://mp.weixin.qq.com/s/wCtqzd9qeSzj1x1h_2gtZQ
 <br>[2] 张之琪，《当女权主义者被控性骚扰：是权力滥用，还是非常规亲密关系？》，https://mp.weixin.qq.com/s/NSHe9gDpvAub1ycFRF-27g
-[3] 朱迪斯·巴特勒，王芊霓（编译），《朱迪斯解释为何给罗内尔背书：罗内尔不该获得差别待遇》，https://m.thepaper.cn/newsDetail_forward_2369011?from=groupmessage&isappinstalled=0
-[4] 齐泽克，卢南峰（译），《齐泽克力挺罗内尔：一封事后的短笺》，https://m.thepaper.cn/newsDetail_forward_2368478?from=groupmessage&isappinstalled=0
-[5] 皮晨莹，《纽约大学教授罗内尔性骚扰学生事件中不性感的真相：权力》，https://m.thepaper.cn/newsDetail_forward_2386014?from=timeline&isappinstalled=0
-[6] 酷玩实验室，《收外国男人的钱，骗中国妹子的炮？天朝竟有这样一帮“女权组织”》，https://mp.weixin.qq.com/s/-JGzbh0BqAvSLRalEJyh_g
-[7] 关于＃MeToo的时间线，参考matters网站的整理，https://matters.news/forum/?post=7e699bcc-cf40-4a39-ad09-2f845dd013dc
-[8] 刘瑜和赵丹的文章，都来自赵丹的微信公众号“赵丹赵丹喵”，https://mp.weixin.qq.com/s/z5ZTFLLVa1yS2k8-KcCV9A
-[9] 纪小城，《中国＃MeToo大辩论：并非刘瑜导致撕裂，裂痕一直就在那里》，刊于端传媒2018年8月1日
+<br>[3] 朱迪斯·巴特勒，王芊霓（编译），《朱迪斯解释为何给罗内尔背书：罗内尔不该获得差别待遇》，https://m.thepaper.cn/newsDetail_forward_2369011?from=groupmessage&isappinstalled=0
+<br>[4] 齐泽克，卢南峰（译），《齐泽克力挺罗内尔：一封事后的短笺》，https://m.thepaper.cn/newsDetail_forward_2368478?from=groupmessage&isappinstalled=0
+<br>[5] 皮晨莹，《纽约大学教授罗内尔性骚扰学生事件中不性感的真相：权力》，https://m.thepaper.cn/newsDetail_forward_2386014?from=timeline&isappinstalled=0
+<br>[6] 酷玩实验室，《收外国男人的钱，骗中国妹子的炮？天朝竟有这样一帮“女权组织”》，https://mp.weixin.qq.com/s/-JGzbh0BqAvSLRalEJyh_g
+<br>[7] 关于＃MeToo的时间线，参考matters网站的整理，https://matters.news/forum/?post=7e699bcc-cf40-4a39-ad09-2f845dd013dc
+<br>[8] 刘瑜和赵丹的文章，都来自赵丹的微信公众号“赵丹赵丹喵”，https://mp.weixin.qq.com/s/z5ZTFLLVa1yS2k8-KcCV9A
+<br>[9] 纪小城，《中国＃MeToo大辩论：并非刘瑜导致撕裂，裂痕一直就在那里》，刊于端传媒2018年8月1日
 </h6>
 
 
