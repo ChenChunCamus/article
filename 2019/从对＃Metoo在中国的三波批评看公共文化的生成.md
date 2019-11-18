@@ -101,7 +101,7 @@
 着眼于公共文化的良性演进，批评者可以不把运动者看作洪水猛兽，运动者也可以不把批评者看作食古不化。但必须说明的是，这种良性演进并不一定会在所有的运动和批评之间出现。有的运动，背后带有政治权力的拨弄，它们的目的也不是为了改变公共文化，而是为了“整人”。有的批评，既不是出于对公共事务的关注，也不是出于对共同生活在一个社会的同胞的关心，而是出于对某一个群体的偏见，或对自己固有立场的拒绝反思。这样的运动和批评，也只会让一个社会永远陷于恶性政治的循环。
 
 <h6> [1] Shu，《维护男士“调情权”，法国女士谴责“＃MeToo”太过分》， https://mp.weixin.qq.com/s/wCtqzd9qeSzj1x1h_2gtZQ
-[2] 张之琪，《当女权主义者被控性骚扰：是权力滥用，还是非常规亲密关系？》，https://mp.weixin.qq.com/s/NSHe9gDpvAub1ycFRF-27g
+<br>[2] 张之琪，《当女权主义者被控性骚扰：是权力滥用，还是非常规亲密关系？》，https://mp.weixin.qq.com/s/NSHe9gDpvAub1ycFRF-27g
 [3] 朱迪斯·巴特勒，王芊霓（编译），《朱迪斯解释为何给罗内尔背书：罗内尔不该获得差别待遇》，https://m.thepaper.cn/newsDetail_forward_2369011?from=groupmessage&isappinstalled=0
 [4] 齐泽克，卢南峰（译），《齐泽克力挺罗内尔：一封事后的短笺》，https://m.thepaper.cn/newsDetail_forward_2368478?from=groupmessage&isappinstalled=0
 [5] 皮晨莹，《纽约大学教授罗内尔性骚扰学生事件中不性感的真相：权力》，https://m.thepaper.cn/newsDetail_forward_2386014?from=timeline&isappinstalled=0
