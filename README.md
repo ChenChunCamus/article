@@ -2,8 +2,8 @@
 
 <h3>2020年更新：</h3>
 陈纯老师的文章合集已经出版：<a href="https://books.google.com.hk/books?id=eV7cDwAAQBAJ&pg=PA320&lpg=PA320&dq
- ![Image text]( https://github.com/ChenChunCamus/article/blob/master/cover.png)<br> 
-" title = "0000">《自由主义的重生与政治德性》</a>
+ " title = "0000">《自由主义的重生与政治德性》</a><br>
+ ![Image text]( https://github.com/ChenChunCamus/article/blob/master/cover.png)
 <br>因为版权问题，书中涉及的文章本页面均已删除，读者可以购买书籍来阅读~
 
 <h3>2019</h3>
