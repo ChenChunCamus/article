@@ -1,7 +1,7 @@
 # 文章目录
 
 2020年更新:<br>
-![Image text]( https://github.com/ChenChunCamus/article/blob/master/cover.png)
+![Image text]( https://github.com/ChenChunCamus/article/blob/master/cover.png)<br>
 陈纯老师的文章合集已经出版：<a href="https://books.google.com.hk/books?id=eV7cDwAAQBAJ&pg=PA320&lpg=PA320&dq
  " title = "0000">《自由主义的重生与政治德性》</a>
 <br>因为版权问题，书中涉及的文章本页面均已删除，读者可以购买书籍来阅读~
